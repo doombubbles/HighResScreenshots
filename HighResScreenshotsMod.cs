@@ -17,6 +17,7 @@ using UnityEngine.Rendering.Universal;
 
 [assembly: MelonInfo(typeof(HighResScreenshotsMod), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
+[assembly: MelonGame("Ninja Kiwi", "BloonsTD6-Epic")]
 
 namespace HighResScreenshots;
 
